@@ -1,0 +1,14 @@
+Featues,Description
+time,Time at which the data was recorded
+wind_speed,The wind speed at a specific time interval for the named city.
+wind_degree,The strength of the wind for the named city at a specific time interval - expressed as a category.
+rain_1h,A metric expressing the amount of rain that has fallen in the past hour in a particular city.
+rain_3h,A metric expressing the amount of rain that has fallen in the past three hours in a particular city.
+humidity,The level of humidity as measured at the defined time for the specific city mentioned.
+clouds_all,The level of cloud coverage as measured at the specified point in time for the specific city mentioned.
+pressure,The atmospheric pressure for the named city at a specific time interval - expressed as a category.
+snow_3h, A metric expressing the amount of snow that has fallen in the past three hours in a particular city.
+weather_id,A metric used to explain the weather condition of a specific city at a specified time.
+temp_max,The maximum temperature for a specific city at a point in time.
+temp_min,The minimum temperature for a specific city at a point in time.
+temp,The average temperature for a specific city at a point in time.
